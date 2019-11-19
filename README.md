@@ -1,6 +1,7 @@
-# youtube_feel_flutter
+# youtube feel
 
-A new Flutter application.
+This application shows sentiment analysis of YouTube videos using machine learning algorithms.
+
 
 ## Getting Started
 
